@@ -1,7 +1,16 @@
-## Hi there 👋
+# Welcome 👋
 
+<p>
+Hi, I'm Mauricio Onofre. I'm a developer in training at Riwi, currently mastering the basics through small projects. 
+I am passionate about art and creativity, including storytelling, game design, drawing, and 3D art.</p>
+
+![My Skill](http://skillicons.dev/icons?i=py,godot,blender)
 <!--
-**onomauri/onomauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p>
+Hi this is Mauricio Onofre I am a software developer in training 
+currently working doing small projects in riwi as a coder learning tha basics 
+I'm passionate about art and creating things, stories, games, drawings, 3D stuff and more.</p>
 
 Here are some ideas to get you started:
 
