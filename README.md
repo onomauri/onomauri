@@ -1,11 +1,6 @@
 
 # Hi there, I'm Mauricio Onofre! 👋
 
-<p align="left">
-  <img src="https://img.shields.io" alt="Status">
-  <img src="https://img.shields.io" alt="Focus">
-</p>
-
 I am a developer in training at **Riwi**, currently building my foundation through hands-on projects. Beyond the code, I live at the intersection of technology and art.
 
 ### 🎨 Creative Passions
