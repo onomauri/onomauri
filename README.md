@@ -1,8 +1,17 @@
-# Welcome 👋
 
-<p>
-Hi, I'm Mauricio Onofre. I'm a developer in training at Riwi, currently mastering the basics through small projects. 
-I am passionate about art and creativity, including storytelling, game design, drawing, and 3D art.</p>
+# Hi there, I'm Mauricio Onofre! 👋
+
+<p align="left">
+  <img src="https://img.shields.io" alt="Status">
+  <img src="https://img.shields.io" alt="Focus">
+</p>
+
+I am a developer in training at **Riwi**, currently building my foundation through hands-on projects. Beyond the code, I live at the intersection of technology and art.
+
+### 🎨 Creative Passions
+- **Storytelling:** Crafting compelling narratives.
+- **Game Design:** Building immersive experiences.
+- **Visual Art:** Drawing and 3D modeling.
 
 ![My Skill](http://skillicons.dev/icons?i=py,godot,blender)
 <!--
